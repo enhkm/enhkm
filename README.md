@@ -24,3 +24,30 @@
 ## 📫 Contact
 
 - [My GitHub](https://github.com/)# EUNHEE
+
+- # 👋 Hello! Welcome to My GitHub
+
+Hi! I'm a licensed Health Information Manager in South Korea, currently learning Python and data analytics.
+
+## 👩‍💻 About Me
+
+- **Professional License:** Licensed Health Information Manager (South Korea)
+- **Areas of Interest:** Health Information Management, Data Analytics
+- **Currently Learning:** Python, SQL
+- **Learning Goal:** Developing skills in data processing and workflow automation
+
+## 📚 Tech Stack
+
+- Python
+- SQL
+- Git & GitHub
+
+## 🚀 My Projects
+
+- Python Basics Practice
+- CSV and JSON Data Processing
+- Python Mini-Game Development
+
+## 📫 Contact
+
+- **GitHub:** [enhkm](https://github.com/enhkm)
