@@ -1,53 +1,71 @@
-# 👋 Hello! Welcome to my GitHub
+# Eunhee Kim
 
-안녕하세요! Python과 데이터 분석을 공부하고 있습니다.
+**Health Information Management | Data Analytics | Python & SQL**
 
-## 👩‍💻 About Me
+Licensed Health Information Manager based in South Korea with professional experience in medical records management and healthcare information administration.
 
-- **보유 면허:** 보건의료정보관리사
-- **관심 분야:** 보건의료정보관리, 데이터 분석
-- **현재 공부 중:** Python, SQL
-- **학습 목표:** 데이터 처리 및 업무 자동화 역량 강화
+Currently expanding my technical knowledge in Python, SQL, and data analytics, with a focus on applying data-driven approaches to healthcare information management.
 
-## 📚 Tech Stack
+---
 
-- Python
-- SQL
-- Git & GitHub
+## About Me
 
-## 🚀 My Projects
+- **Professional License:** Health Information Manager (South Korea)
+- **Professional Background:** Medical Records Management and Healthcare Information Administration
+- **Areas of Interest:** Healthcare Data Analytics, Data Quality, Process Improvement
+- **Currently Learning:** Python, SQL, Data Analysis
+- **Career Focus:** Connecting healthcare information management expertise with data-driven technologies
 
-- Python 기초 실습
-- CSV 및 JSON 데이터 처리
-- Python 미니게임 만들기
+---
 
-## 📫 Contact
+## Technical Skills
 
-- [My GitHub](https://github.com/)# EUNHEE
+| Category | Technologies & Skills |
+|---|---|
+| Programming | Python (Learning) |
+| Database | SQL (Learning) |
+| Data Processing | CSV, JSON |
+| Development Tools | Git, GitHub, VS Code |
+| Healthcare | Medical Records Management, Health Information Management |
 
-- # 👋 Hello! Welcome to My GitHub
+---
 
-Hi! I'm a licensed Health Information Manager in South Korea, currently learning Python and data analytics.
+## Projects
 
-## 👩‍💻 About Me
+### Flipped Lab — Python Puzzle Game
 
-- **Professional License:** Licensed Health Information Manager (South Korea)
-- **Areas of Interest:** Health Information Management, Data Analytics
-- **Currently Learning:** Python, SQL
-- **Learning Goal:** Developing skills in data processing and workflow automation
+A puzzle-based adventure game developed as part of Python programming practice.
 
-## 📚 Tech Stack
+**Key Concepts:** Conditional Statements, Loops, Functions, Game Logic
 
-- Python
-- SQL
-- Git & GitHub
+[View Project](https://github.com/enhkm/flipped-lab)
 
-## 🚀 My Projects
+### CSV & JSON Data Processing
 
-- Python Basics Practice
-- CSV and JSON Data Processing
-- Python Mini-Game Development
+Python exercises focused on converting and processing structured data formats.
 
-## 📫 Contact
+**Key Concepts:** File Handling, Data Conversion, Data Structures
 
-- **GitHub:** [enhkm](https://github.com/enhkm)
+*Project repository will be added after publication.*
+
+---
+
+## Currently Learning
+
+- **Python:** Programming fundamentals and practical exercises
+- **SQL:** Relational databases and query fundamentals
+- **Data Analytics:** Data preprocessing, statistical concepts, and analytical methods
+
+---
+
+## Professional Interests
+
+My long-term goal is to combine practical experience in health information management with technical skills in data analysis and information systems.
+
+I am particularly interested in improving healthcare data quality, streamlining administrative workflows, and exploring the practical applications of data technologies in healthcare.
+
+---
+
+## Connect
+
+**GitHub:** [github.com/enhkm](https://github.com/enhkm)
